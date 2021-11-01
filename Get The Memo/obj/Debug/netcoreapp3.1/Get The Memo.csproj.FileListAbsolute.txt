@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\bin\Debug\netcoreapp3.1\Get The Memo.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Get The Memo\Get The Memo\obj\Debug\netcoreapp3.1\Get The Memo.genruntimeconfig.cache
